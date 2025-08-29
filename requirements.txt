@@ -1,0 +1,55 @@
+# Core AI framework
+crewai==0.30.11
+crewai-tools
+
+# Web framework
+fastapi
+uvicorn
+python-multipart
+
+# Environment variables loader
+python-dotenv
+
+# LLM integration
+langchain-google-genai
+
+# Google AI SDKs
+google-ai-generativelanguage
+google-api-core
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-core
+google-cloud-resource-manager
+google-cloud-storage
+google-crc32c
+google-generativeai
+google-resumable-media
+googleapis-common-protos
+
+# OpenTelemetry (required by CrewAI)
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-otlp-proto-grpc
+opentelemetry-instrumentation
+opentelemetry-semantic-conventions
+
+# PDF processing
+pdfplumber
+PyPDF2
+pandas
+numpy
+
+# HTTP and utility
+httpx
+aiofiles
+click
+tenacity
+requests
+beautifulsoup4
+
+# Additional dependencies
+pydantic
+typing-extensions

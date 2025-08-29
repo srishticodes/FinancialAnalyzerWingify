@@ -1,0 +1,447 @@
+# Financial Analysis: TSLA-Q2-2025-Update.pdf
+
+## Key Financial Metrics
+
+### Profitability Metrics
+- Revenue: $18,530.00
+- Net Income: $4,578.00
+
+### Financial Ratios
+- Gross Margin: 18.00%
+- Operating Margin: 6.30%
+
+## Financial Tables
+
+### Income Statement (Page 4)
+($ in millions, except percentages and per share data) | Q2-2024 | Q3-2024 | Q4-2024 | Q1-2025 | Q2-2025 | YoY
+--------------------------------------------------------------------------------------------------------------
+Total automotive revenues | 19,878 | 20,016 | 19,798 | 13,967 | 16,661 | -16%
+Energy generation and storage revenue | 3,014 | 2,376 | 3,061 | 2,730 | 2,789 | -7%
+Services and other revenue | 2,608 | 2,790 | 2,848 | 2,638 | 3,046 | 17%
+nan | nan | nan | nan | nan | nan | nan
+Total revenues | 25,500 | 25,182 | 25,707 | 19,335 | 22,496 | -12%
+Total gross profit | 4,578 | 4,997 | 4,179 | 3,153 | 3,878 | -15%
+Total GAAP gross margin | 18.0% | 19.8% | 16.3% | 16.3% | 17.2% | -71 bp
+nan | nan | nan | nan | nan | nan | nan
+Operating expenses | 2,973 | 2,280 | 2,596 | 2,754 | 2,955 | -1%
+Income from operations | 1,605 | 2,717 | 1,583 | 399 | 923 | -42%
+Operating margin | 6.3% | 10.8% | 6.2% | 2.1% | 4.1% | -219 bp
+nan | nan | nan | nan | nan | nan | nan
+(1) (2)
+Adjusted EBITDA | 3,674 | 4,665 | 4,333 | 2,814 | 3,401 | -7%
+(1) (2)
+Adjusted EBITDA margin | 14.4% | 18.5% | 16.9% | 14.6% | 15.1% | 71 bp
+nan | nan | nan | nan | nan | nan | nan
+(1)
+Net income attributable to common stockholders (GAAP) | 1,400 | 2,173 | 2,128 | 409 | 1,172 | -16%
+(1) (3)
+Net income attributable to common stockholders (non-GAAP) | 1,812 | 2,505 | 2,107 | 934 | 1,393 | -23%
+nan | nan | nan | nan | nan | nan | nan
+(1)
+EPS attributable to common stockholders, diluted (GAAP) | 0.40 | 0.62 | 0.60 | 0.12 | 0.33 | -18%
+(1) (3)
+EPS attributable to common stockholders, diluted (non-GAAP) | 0.52 | 0.72 | 0.60 | 0.27 | 0.40 | -23%
+nan | nan | nan | nan | nan | nan | nan
+Net cash provided by operating activities | 3,612 | 6,255 | 4,814 | 2,156 | 2,540 | -30%
+(4)
+Capital expenditures | (2,272) | (3,513) | (2,780) | (1,492) | (2,394) | 5%
+(4)
+Free cash flow | 1,340 | 2,742 | 2,034 | 664 | 146 | -89%
+Cash, cash equivalents and investments | 30,720 | 33,648 | 36,563 | 36,996 | 36,782 | 20%
+
+### Balance Sheet (Page 6)
+ | Q2-2024 | Q3-2024 | Q4-2024 | Q1-2025 | Q2-2025 | YoY
+--------------------------------------------------------
+Model 3/Y production | 386,576 | 443,668 | 436,718 | 345,454 | 396,835 | 3%
+Other models production | 24,255 | 26,128 | 22,727 | 17,161 | 13,409 | -45%
+Total production | 410,831 | 469,796 | 459,445 | 362,615 | 410,244 | 0%
+nan | nan | nan | nan | nan | nan | nan
+Model 3/Y deliveries | 422,405 | 439,975 | 471,930 | 323,800 | 373,728 | -12%
+Other models deliveries | 21,551 | 22,915 | 23,640 | 12,881 | 10,394 | -52%
+Total deliveries | 443,956 | 462,890 | 495,570 | 336,681 | 384,122 | -13%
+of which subject to operating lease accounting | 10,227 | 14,449 | 26,962 | 13,721 | 6,670 | -35%
+nan | nan | nan | nan | nan | nan | nan
+Total end of quarter operating lease vehicle count | 171,353 | 168,867 | 180,523 | 179,930 | 172,882 | 1%
+(1)
+Global vehicle inventory (days of supply) | 18 | 19 | 12 | 22 | 24 | 33%
+nan | nan | nan | nan | nan | nan | nan
+Storage deployed (GWh) | 9.4 | 6.9 | 11.0 | 10.4 | 9.6 | 2%
+nan | nan | nan | nan | nan | nan | nan
+Tesla locations | 1,286 | 1,306 | 1,359 | 1,390 | 1,454 | 13%
+Mobile service fleet | 1,896 | 1,933 | 1,895 | 1,799 | 1,684 | -11%
+nan | nan | nan | nan | nan | nan | nan
+Supercharger stations | 6,473 | 6,706 | 6,975 | 7,131 | 7,377 | 14%
+Supercharger connectors | 59,596 | 62,421 | 65,495 | 67,316 | 70,228 | 18%
+
+### Unknown (Page 7)
+Current Installed Annual Vehicle Capacity | None | None | None
+--------------------------------------------------------------
+Region | Status | Status | Status
+California | Production | Production | Production
+nan | Production | Production | Production
+Shanghai | Production | Production | Production
+Berlin | Production | Production | Production
+Texas | Production | Production | Production
+nan | Production | Production | Production
+nan | Construction | Construction | Construction
+Nevada | Construction | Construction | Construction
+TBD | Design development | Design development | Design development
+
+### Unknown (Page 9)
+None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | 
+--------------------------------------------------------------------------------------------------------------------------------------------
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+
+### Unknown (Page 9)
+0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18
+----------------------------------------------------------------------------------
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+
+### Unknown (Page 9)
+None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None |  | None | 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+
+### Unknown (Page 21)
+None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None |  | None | None | None | None
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+
+### Unknown (Page 21)
+None | None | None | None | None | None | None | None | None | None | None | None | None | None | None |  | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+
+### Unknown (Page 21)
+None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None |  | None | None | None | None | None | None | None | None | None
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+
+### Unknown (Page 21)
+ | None
+-------
+nan | nan
+nan | nan
+nan | nan
+
+### Unknown (Page 22)
+None | None | None | None |  | None | None | None | None | None |  | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+
+### Unknown (Page 22)
+None | None | None | None | None | None | None | None | None | None |  |  | None | None | None | None | None | None |  | None | None | None | None
+--------------------------------------------------------------------------------------------------------------------------------------------------
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+
+### Unknown (Page 22)
+None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None | None |  | None | None | None | None
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+
+### Income Statement (Page 24)
+REVENUES |  |  |  |  | 
+-----------------------
+nan | 15,787 | 15,787 | 15,787 | 15,787 | 15,787
+nan | 439 | 439 | 439 | 439 | 439
+nan | 435 | 435 | 435 | 435 | 435
+nan | 16,661 | 16,661 | 16,661 | 16,661 | 16,661
+nan | 2,789 | 2,789 | 2,789 | 2,789 | 2,789
+nan | 3,046 | 3,046 | 3,046 | 3,046 | 3,046
+nan | 22,496 | 22,496 | 22,496 | 22,496 | 22,496
+COST OF REVENUES | nan | nan | nan | nan | nan
+nan | 13,567 | 13,567 | 13,567 | 13,567 | 13,567
+nan | 228 | 228 | 228 | 228 | 228
+nan | 13,795 | 13,795 | 13,795 | 13,795 | 13,795
+nan | 1,943 | 1,943 | 1,943 | 1,943 | 1,943
+nan | 2,880 | 2,880 | 2,880 | 2,880 | 2,880
+nan | 18,618 | 18,618 | 18,618 | 18,618 | 18,618
+nan | 3,878 | 3,878 | 3,878 | 3,878 | 3,878
+OPERATING EXPENSES | nan | nan | nan | nan | nan
+nan | 1,589 | 1,589 | 1,589 | 1,589 | 1,589
+nan | 1,366 | 1,366 | 1,366 | 1,366 | 1,366
+nan | — | — | — | — | —
+nan | 2,955 | 2,955 | 2,955 | 2,955 | 2,955
+INCOME FROM OPERATIONS | 923 | 923 | 923 | 923 | 923
+nan | 392 | 392 | 392 | 392 | 392
+nan | (86) | (86) | (86) | (86) | (86)
+nan | 320 | 320 | 320 | 320 | 320
+INCOME BEFORE INCOME TAXES (1) | 1,549 | 1,549 | 1,549 | 1,549 | 1,549
+nan | 359 | 359 | 359 | 359 | 359
+NET INCOME (1) | 1,190 | 1,190 | 1,190 | 1,190 | 1,190
+nan | 18 | 18 | 18 | 18 | 18
+NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS (1) | 1,172 | 1,172 | 1,172 | 1,172 | 1,172
+nan | — | — | — | — | —
+nan | 1,172 | 1,172 | 1,172 | 1,172 | 1,172
+nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan
+nan | $ 0.36 | $ 0.36 | $ 0.36 | $ 0.36 | $ 0.36
+nan | $ 0.33 | $ 0.33 | $ 0.33 | $ 0.33 | $ 0.33
+nan | nan | nan | nan | nan | nan
+nan | 3,223 | 3,223 | 3,223 | 3,223 | 3,223
+nan | 3,519 | 3,519 | 3,519 | 3,519 | 3,519
+
+### Balance Sheet (Page 25)
+ASSETS |  |  |  |  | 
+---------------------
+nan | nan | nan | nan | nan | nan
+nan | 36,782 | 36,782 | 36,782 | 36,782 | 36,782
+nan | 3,838 | 3,838 | 3,838 | 3,838 | 3,838
+nan | 14,570 | 14,570 | 14,570 | 14,570 | 14,570
+nan | 5,943 | 5,943 | 5,943 | 5,943 | 5,943
+nan | 61,133 | 61,133 | 61,133 | 61,133 | 61,133
+nan | 5,230 | 5,230 | 5,230 | 5,230 | 5,230
+nan | 4,788 | 4,788 | 4,788 | 4,788 | 4,788
+nan | 38,574 | 38,574 | 38,574 | 38,574 | 38,574
+nan | 5,633 | 5,633 | 5,633 | 5,633 | 5,633
+nan | 1,235 | 1,235 | 1,235 | 1,235 | 1,235
+nan | 396 | 396 | 396 | 396 | 396
+nan | 6,721 | 6,721 | 6,721 | 6,721 | 6,721
+nan | 4,857 | 4,857 | 4,857 | 4,857 | 4,857
+nan | 128,567 | 128,567 | 128,567 | 128,567 | 128,567
+LIABILITIES AND EQUITY | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan
+nan | 13,212 | 13,212 | 13,212 | 13,212 | 13,212
+nan | 11,519 | 11,519 | 11,519 | 11,519 | 11,519
+nan | 3,237 | 3,237 | 3,237 | 3,237 | 3,237
+nan | 2,040 | 2,040 | 2,040 | 2,040 | 2,040
+nan | 30,008 | 30,008 | 30,008 | 30,008 | 30,008
+nan | 5,180 | 5,180 | 5,180 | 5,180 | 5,180
+nan | 3,764 | 3,764 | 3,764 | 3,764 | 3,764
+nan | 11,543 | 11,543 | 11,543 | 11,543 | 11,543
+nan | 50,495 | 50,495 | 50,495 | 50,495 | 50,495
+nan | 61 | 61 | 61 | 61 | 61
+nan | 77,314 | 77,314 | 77,314 | 77,314 | 77,314
+nan | 697 | 697 | 697 | 697 | 697
+nan | 128,567 | 128,567 | 128,567 | 128,567 | 128,567
+nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan
+nan | 6,953 | 6,953 | 6,953 | 6,953 | 6,953
+nan | 3 | 3 | 3 | 3 | 3
+nan | nan | nan | nan | nan | nan
+nan | 15 | 15 | 15 | 15 | 15
+nan | 65 | 65 | 65 | 65 | 65
+
+### Balance Sheet (Page 26)
+CASH FLOWS FROM OPERATING ACTIVITIES |  |  |  |  | 
+---------------------------------------------------
+nan | 1,190 | 1,190 | 1,190 | 1,190 | 1,190
+nan | nan | nan | nan | nan | nan
+nan | 1,433 | 1,433 | 1,433 | 1,433 | 1,433
+nan | 635 | 635 | 635 | 635 | 635
+nan | 52 | 52 | 52 | 52 | 52
+nan | (284) | (284) | (284) | (284) | (284)
+nan | 187 | 187 | 187 | 187 | 187
+nan | (673) | (673) | (673) | (673) | (673)
+nan | 2,540 | 2,540 | 2,540 | 2,540 | 2,540
+CASH FLOWS FROM INVESTING ACTIVITIES | nan | nan | nan | nan | nan
+nan | (2,394) | (2,394) | (2,394) | (2,394) | (2,394)
+nan | (7,485) | (7,485) | (7,485) | (7,485) | (7,485)
+nan | 6,935 | 6,935 | 6,935 | 6,935 | 6,935
+nan | — | — | — | — | —
+nan | (2,944) | (2,944) | (2,944) | (2,944) | (2,944)
+CASH FLOWS FROM FINANCING ACTIVITIES | nan | nan | nan | nan | nan
+nan | (23) | (23) | (23) | (23) | (23)
+nan | (400) | (400) | (400) | (400) | (400)
+nan | (14) | (14) | (14) | (14) | (14)
+nan | 215 | 215 | 215 | 215 | 215
+nan | (222) | (222) | (222) | (222) | (222)
+nan | nan | nan | nan | nan | nan
+nan | 111 | 111 | 111 | 111 | 111
+nan | (515) | (515) | (515) | (515) | (515)
+nan | 17,250 | 17,250 | 17,250 | 17,250 | 17,250
+nan | 16,735 | 16,735 | 16,735 | 16,735 | 16,735
+
+### Unknown (Page 27)
+0 | 1 | 2 | 3 | 4 | 5
+---------------------
+nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | 1,172
+nan | nan | nan | nan | nan | 443
+nan | nan | nan | nan | nan | (222)
+nan | nan | nan | nan | nan | 1,393
+nan | nan | nan | nan | nan | —
+nan | nan | nan | nan | nan | 1,393
+nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | 0.33
+nan | nan | nan | nan | nan | 0.13
+nan | nan | nan | nan | nan | (0.06)
+nan | nan | nan | nan | nan | 0.40
+nan | nan | nan | nan | nan | 3,519
+nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | 1,172
+nan | nan | nan | nan | nan | 86
+nan | nan | nan | nan | nan | 359
+nan | nan | nan | nan | nan | 1,433
+nan | nan | nan | nan | nan | 635
+nan | nan | nan | nan | nan | (284)
+nan | nan | nan | nan | nan | 3,401
+nan | nan | nan | nan | nan | 22,496
+nan | nan | nan | nan | nan | 15.1%
+
+### Income Statement (Page 28)
+In millions of USD | 4Q-2021 | 1Q-2022 | 2Q-2022 | 3Q-2022 | 4Q-2022 | 1Q-2023 | 2Q-2023 | 3Q-2023 | 4Q-2023 | 1Q-2024 | 2Q-2024 | 3Q-2024 | 4Q-2024 | 1Q-2025 | 2Q-2025
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Net cash provided by operating activities (GAAP) | 4,585 | 3,995 | 2,351 | 5,100 | 3,278 | 2,513 | 3,065 | 3,308 | 4,370 | 242 | 3,612 | 6,255 | 4,814 | 2,156 | 2,540
+Capital expenditures (1) | (1,814) | (1,772) | (1,730) | (1,803) | (1,858) | (2,073) | (2,060) | (2,459) | (2,307) | (2,777) | (2,272) | (3,513) | (2,780) | (1,492) | (2,394)
+Free cash flow (non-GAAP) (1) | 2,771 | 2,223 | 621 | 3,297 | 1,420 | 440 | 1,005 | 849 | 2,063 | (2,535) | 1,340 | 2,742 | 2,034 | 664 | 146
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+In millions of USD | 4Q-2021 | 1Q-2022 | 2Q-2022 | 3Q-2022 | 4Q-2022 | 1Q-2023 | 2Q-2023 | 3Q-2023 | 4Q-2023 | 1Q-2024 | 2Q-2024 | 3Q-2024 | 4Q-2024 | 1Q-2025 | 2Q-2025
+Net income attributable to common stockholders (GAAP) (2) | 2,321 | 3,318 | 2,259 | 3,292 | 3,687 | 2,513 | 2,703 | 1,853 | 7,928 | 1,390 | 1,400 | 2,173 | 2,128 | 409 | 1,172
+Interest expense | 71 | 61 | 44 | 53 | 33 | 29 | 28 | 38 | 61 | 76 | 86 | 92 | 96 | 91 | 86
+Provision for (benefit from) income taxes (2) | 292 | 346 | 205 | 305 | 276 | 261 | 323 | 167 | (5,752) | 483 | 371 | 602 | 381 | 169 | 359
+Depreciation, amortization and impairment | 848 | 880 | 922 | 956 | 989 | 1,046 | 1,154 | 1,235 | 1,232 | 1,246 | 1,278 | 1,348 | 1,496 | 1,447 | 1,433
+Stock-based compensation expense | 558 | 418 | 361 | 362 | 419 | 418 | 445 | 465 | 484 | 524 | 439 | 457 | 579 | 573 | 635
+Digital assets loss (gain), net (2) | — | — | 170 | — | 34 | — | — | — | — | (335) | 100 | (7) | (347) | 125 | (284)
+Adjusted EBITDA (non-GAAP) (2) (3) | 4,090 | 5,023 | 3,961 | 4,968 | 5,438 | 4,267 | 4,653 | 3,758 | 3,953 | 3,384 | 3,674 | 4,665 | 4,333 | 2,814 | 3,401
+
+### Income Statement (Page 28)
+In millions of USD | 3Q-2022 | 4Q-2022 | 1Q-2023 | 2Q-2023 | 3Q-2023 | 4Q-2023 | 1Q-2024 | 2Q-2024 | 3Q-2024 | 4Q-2024 | 1Q-2025 | 2Q-2025
+------------------------------------------------------------------------------------------------------------------------------------------
+Net cash provided by operating activities – TTM (GAAP) | 16,031 | 14,724 | 13,242 | 13,956 | 12,164 | 13,256 | 10,985 | 11,532 | 14,479 | 14,923 | 16,837 | 15,765
+Capital expenditures – TTM (1) | (7,119) | (7,163) | (7,464) | (7,794) | (8,450) | (8,899) | (9,603) | (9,815) | (10,869) | (11,342) | (10,057) | (10,179)
+Free cash flow – TTM (non-GAAP) (1) | 8,912 | 7,561 | 5,778 | 6,162 | 3,714 | 4,357 | 1,382 | 1,717 | 3,610 | 3,581 | 6,780 | 5,586
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+In millions of USD | 3Q-2022 | 4Q-2022 | 1Q-2023 | 2Q-2023 | 3Q-2023 | 4Q-2023 | 1Q-2024 | 2Q-2024 | 3Q-2024 | 4Q-2024 | 1Q-2025 | 2Q-2025
+Net income attributable to common stockholders – TTM (GAAP) (2) | 11,190 | 12,556 | 11,751 | 12,195 | 10,756 | 14,997 | 13,874 | 12,571 | 12,891 | 7,091 | 6,110 | 5,882
+Interest expense – TTM | 229 | 191 | 159 | 143 | 128 | 156 | 203 | 261 | 315 | 350 | 365 | 365
+Provision for (benefit from) income taxes – TTM (2) | 1,148 | 1,132 | 1,047 | 1,165 | 1,027 | (5,001) | (4,779) | (4,731) | (4,296) | 1,837 | 1,523 | 1,511
+Depreciation, amortization and impairment – TTM | 3,606 | 3,747 | 3,913 | 4,145 | 4,424 | 4,667 | 4,867 | 4,991 | 5,104 | 5,368 | 5,569 | 5,724
+Stock-based compensation expense – TTM | 1,699 | 1,560 | 1,560 | 1,644 | 1,747 | 1,812 | 1,918 | 1,912 | 1,904 | 1,999 | 2,048 | 2,244
+Digital assets loss (gain), net – TTM (2) | 170 | 204 | 204 | 34 | 34 | — | (335) | (235) | (242) | (589) | (129) | (513)
+Adjusted EBITDA – TTM (non-GAAP) (2) (3) | 18,042 | 19,390 | 18,634 | 19,326 | 18,116 | 16,631 | 15,748 | 14,769 | 15,676 | 16,056 | 15,486 | 15,213
+
+## Period Comparison
+Metric | 0 | 1 | 2 | 3 | 4 | 5
+----------------------------------------
