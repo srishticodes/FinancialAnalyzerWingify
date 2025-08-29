@@ -4,7 +4,8 @@ A comprehensive financial document analysis system that processes corporate repo
 
 ## Bugs Found and How They Were Fixed
 
-The original codebase (`@copy/` files) was plagued with deterministic bugs, inefficient and unprofessional prompts, and a lack of robust architecture. Here's a summary of the key issues and their solutions.
+The original codebase (`@copy/` files) was plagued with deterministic bugs, inefficient and unprofessional prompts, and a lack of robust architecture. 
+Here's a summary of the key issues and their solutions:
 
 ### 1. Inefficient and Unprofessional Prompts (`agents.py`, `task.py`)
 
@@ -13,7 +14,7 @@ The original codebase (`@copy/` files) was plagued with deterministic bugs, inef
     -   **Agents (`agents.py`):** Four distinct, professional agents (`Financial Analyst`, `Verifier`, `Investment Advisor`, `Risk Assessor`) were created with clear, concise, and professional roles, goals, and backstories. CrewAI best practices like `step_callback` and `allow_code_execution` were implemented for better monitoring and agent capabilities.
     -   **Tasks (`task.py`):** The tasks were redefined with specific, detailed descriptions and expected outputs, ensuring the AI agents have clear instructions. Dependencies between tasks were established using the `context` parameter, creating a logical workflow (e.g., analysis depends on verification).
 
-### 2. Broken and Inefficient Tools (`tools-c.py`)
+### 2. Broken and Inefficient Tools (`tools.py`)
 
 -   **Bug:** The original `tools.py` contained broken, incomplete, and inefficient tools. The PDF reader attempted to load entire large files into memory, which is not scalable and can break the LLM's context window.
 -   **Fix:**
