@@ -4,7 +4,7 @@ A comprehensive financial document analysis system that processes corporate repo
 
 ## Bugs Found and How They Were Fixed
 
-The original codebase (`@copy/` files) was plagued with deterministic bugs, inefficient and unprofessional prompts, and a lack of robust architecture. 
+The original codebase  was plagued with deterministic bugs, inefficient and unprofessional prompts, and a lack of robust architecture. 
 Here's a summary of the key issues and their solutions:
 
 ### 1. Inefficient and Unprofessional Prompts (`agents.py`, `task.py`)
